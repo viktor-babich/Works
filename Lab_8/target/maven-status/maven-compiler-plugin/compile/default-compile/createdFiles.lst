@@ -1,0 +1,12 @@
+library\Library.class
+library\LibraryItem.class
+library\Main$ReportWriter.class
+library\Main$Simulation$Stats.class
+library\Film.class
+library\CSVLoader.class
+library\Main$Simulation.class
+library\Journal.class
+library\User.class
+library\Main.class
+library\Book.class
+library\User$Type.class

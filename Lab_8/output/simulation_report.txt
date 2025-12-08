@@ -1,0 +1,11 @@
+library simulation report
+total borrows: 6089
+total returns: 5941
+total fines collected: $34999,00
+overdue returns: 378
+books on loan: 81
+journals on loan: 57
+films on loan: 10
+users with outstanding loans: 69
+
+end of report
