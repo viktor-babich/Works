@@ -1,0 +1,17 @@
+library\Library.class
+library\EmailNotifier.class
+library\LibraryItem.class
+library\Main$ReportWriter.class
+library\OverdueObserver.class
+library\Main$Simulation$Stats.class
+library\Film.class
+library\CSVLoader.class
+library\Main$Simulation.class
+library\Journal.class
+library\Searchable.class
+library\Main$1.class
+library\User.class
+library\Loanable.class
+library\Main.class
+library\Book.class
+library\User$Type.class
